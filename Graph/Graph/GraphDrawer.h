@@ -33,7 +33,6 @@ public:
 		}
 	}
 
-	//by default "1" is 100 pixels;
 	void SetScale(double new_x, double new_y) 
 	{
 		scale_x = new_x;
